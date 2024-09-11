@@ -25,4 +25,4 @@ This is a simple website built with HTML and CSS , including the following eleme
 <!--footer--> This tag generally contains about copyright , tel information and related information.
 <!--b--> bold tag is used to convert normal text into bold.
 <!--body-->It contains all the elements of the page
-<!--nav-->These tag is used to define the sections of page within the web page.
+<!--nav-->These tag is used to define the sections of page within the web page.o\
