@@ -1,4 +1,20 @@
+nav {
+    height: 40px;
+    font-size: xx-large;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem calc(100vw - 1300px) / 2;
+}
+.logo {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
 
+nav a:hover{
+    color: orangered;
+}
 header {
     text-align: center;
     background-color: orange;
@@ -42,11 +58,10 @@ form {
     text-shadow: 1cap;
 }
 body{
-    background-image: url(sky.png);
+    background: orange;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: palegoldenrod;
 }
 title{
     font-style: italic;
@@ -71,4 +86,8 @@ footer{
     text-align: left;
     padding: 10px;
 
+}
+button:hover {
+    background: white;
+    color: black;
 }

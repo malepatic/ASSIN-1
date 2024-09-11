@@ -24,3 +24,4 @@ This is a simple website built with HTML and CSS , including the following eleme
 <!--mailto-->This tag is for email contact.
 <!--footer--> This tag generally contains about copyright , tel information and related information.
 <!--b--> bold tag is used to convert normal text into bold.
+<!--body-->It contains all the elements of the page
