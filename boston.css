@@ -11,6 +11,9 @@ nav {
     font-weight: bold;
     font-style: italic;
 }
+nav a {
+    text-decoration: none;
+}
 
 nav a:hover{
     color: orangered;
@@ -91,3 +94,4 @@ button:hover {
     background: white;
     color: black;
 }
+
