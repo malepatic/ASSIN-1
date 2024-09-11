@@ -1,0 +1,74 @@
+
+header {
+    text-align: center;
+    background-color: orange;
+    font-style: italic;
+    text-align: center;
+}
+ul {
+    font-size: x-large;
+    font-style: oblique;
+    text-align: start;
+}
+menu{
+    font-size: x-large;
+    font-style: oblique;
+}
+img{
+    width: 29%;
+    height: 29%;
+    border-radius: 6%;
+    object-fit: contain;
+    border: 4px solid paleorange;
+    transition: transform 0.3s ease;
+    box-shadow: 100px;
+
+}
+div {
+    align-self: start;
+}
+table , th , td {
+    padding: 15px;
+    border: 1px solid;
+    width: 30%;
+    border-collapse: collapse;
+    table-layout: auto;
+}
+th{
+    background-color: rgb(138, 138, 203)violet;
+}
+form {
+    text-align: left;
+    text-shadow: 1cap;
+}
+body{
+    background-image: url(sky.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: palegoldenrod;
+}
+title{
+    font-style: italic;
+}
+h2 {
+    font-style: italic;
+    text-align: left;
+}
+h3{
+    text-emphasis-color: red;
+    font-style: italic;
+}
+h3{
+    font-style: italic;
+    text-align: center;
+}
+audio{
+    width: 350px;
+}
+footer{
+    background-color: aliceblue;
+    text-align: left;
+    padding: 10px;
+
+}
