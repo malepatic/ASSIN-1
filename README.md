@@ -1,37 +1,42 @@
 # WEBDESIGN.HTMLCSS TAGS USED
 This is a simple website built with HTML and CSS , including the following elements :
+# Boston Events Website
 
-<!--meta--> This tag is used to give extra information about a page.
-<!--Title--> This tag is used to give web page a title called boston events.
-<!--h1--> This tag is used to define HTML heading and created h1 tag for heading called events in boston to describe the heading.
-<!--ul--> It is used to an unordered list to describe the point of events happening.
-<!--br--> It is used to keep a single line break between the code.
-<!--div--> It is used to group the sections of code like classes and containers.
-<!--p--> It is used to write information about the event.
-<!--Header--> This tag is used at top of the webpage and divide it into sections.
-<!---Favicon--> A small icon that appears on the left side of browser tab.
-<!---Table---> Displays a list of events that is going to happen in future and divided by dates,time,place and event.
-<!-- tr -->These tag is used to add the row elements in the table.
-<!-- th -->These tag is used to add header of table Date,Time,Place and Event name.
-<!-- td -->These tag is used to add the data for the header cells.
-<!--h2-->This tag is used to add the heading to table.
-<!-- h3 --> The heading is used to add the another heading for the song.
-<!---Form---> The form tag is used to collect the information like which event is likely to attend and performer they likes.
-<!--Images--> Using this tag added images that suites the description.
-<!--Hyperlink--> This tag is used to link different page of related information.
-<!--Button--> this tag is used to confirm the choices of the consumer once the enters.
-<!--audio--> audio tag is used to add audio file.
-<!--video--> video tag is used to insert the video file.
-<!--Summary--> It is used to describe the information of boston,atmosphere.
-<!--Menu--> It used to describe an unordered lists of events that going to happen.
-<!--tel--> This tag is used for phone contact number.
-<!--mailto-->This tag is for email contact for queries.
-<!--footer--> This tag generally contains about copyright , tel information and email information.
-<!--b--> bold tag is used to convert normal text into bold.
-<!--body-->It is used to keep all the elements of the tags in page.
-<!--nav-->These tag is used to define the sections of page within the web page.
-<!--address--> These tag is used add the tel and mailto information.
+This project is a simple HTML webpage showcasing various events happening in Boston. The webpage provides information about upcoming music and comedy events in the city, along with a few interactive features such as audio, video, and a submission form.
 
+## Project Structure
+
+### `house.html`
+The main webpage consists of several sections:
+- **Header**: A welcome message and an overview of Boston events.
+- **Navigation**: Links to additional pages (`about.html` and `events.html`).
+- **Event Listings**: A detailed table listing upcoming events in Boston with dates, times, locations, and event names.
+- **Multimedia**: Includes an image gallery, audio of a previous song winner, and a video of the best video winner of the month.
+- **Form**: Allows users to submit details about which event they are attending and which performer they like.
+- **Footer**: Contains contact information, including phone and email, and a copyright notice.
+
+### Features
+- **Responsive Layout**: The webpage is built to be responsive and adjusts its layout based on the viewport size.
+- **Media Elements**: The webpage features images, audio, and video that highlight past event winners.
+- **Table of Events**: A neatly formatted table displays event details such as date, time, venue, and the name of the event.
+- **Interactive Form**: Users can interact with the form to submit information about their event preferences.
+
+### Technologies Used
+- HTML5
+- CSS (linked through `boston.css`)
+- Multimedia support (audio, video)
+- Form handling (basic input fields)
+
+### How to Use
+1. Open the `house.html` file in a web browser.
+2. Explore the event listings and multimedia features.
+3. Use the form to submit your event preferences.
+
+### Contact
+- Phone: [+1 1234567890](tel:+11234567890)
+- Email: [bostonmusiccity@gmail.com](mailto:bostonmusiccity@gmail.com)
+
+© 2024 Boston Music. All rights reserved.
 <!--height-->These attribute is used to nav tag for managing the height between the title and logo.
 <!--font-size-->It is used to increase the font size of logo and set to xx-large font.
 <!--display-->these attribute is used to set the type of box , set to flex.
