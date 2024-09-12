@@ -11,10 +11,6 @@ nav {
     font-weight: bold;
     font-style: italic;
 }
-nav a {
-    text-decoration: none;
-}
-
 nav a:hover{
     color: orangered;
 }
@@ -37,11 +33,7 @@ img{
     width: 29%;
     height: 29%;
     border-radius: 6%;
-    object-fit: contain;
     border: 4px solid paleorange;
-    transition: transform 0.3s ease;
-    box-shadow: 100px;
-
 }
 div {
     align-self: start;
