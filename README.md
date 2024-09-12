@@ -39,7 +39,15 @@ This is a simple website built with HTML and CSS , including the following eleme
 <!--font-weight-->This attribute is used to set how the font will looks and set to bold for the logo and navitems.
 <!--font-style-->The style of the logo and navitems set to italic in the nav and oblique in the menu tag.
 <!--nav a:hover-->These attribute is used to change the color into red when we hover it.
-<!--width-->The width of padding area,size are set to 29% for the images.
+<!--width-->The width of padding area,size are set to 29% for the images and in the audio section the width has set to 350px.
 <!--height-->The height of image set to 29%.
 <!--border-radius-->The radius between the images set to 6%.
 <!--border-->These attribute is used for setting width style and color and set to the image to 4px,solid style and paleorange color.
+<!--border-collapse-->These attribute is used to select the model of table.
+<!--table-layout-->These attribute is used set the table layout and set to the auto for table.
+<!--background-->The color of the background set to orange.
+<!--background-repeat-->These attribute is set to no-repeat for tiling backgorund position.
+<!--background-attachment-->These attribute is used to fix the position of background image irrespective of scrolling.
+<!-- background-size -->It is used to specify the size of background image added.
+
+
