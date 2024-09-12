@@ -12,6 +12,9 @@ This is a simple website built with HTML and CSS , including the following eleme
 <!--Header--> This tag is used at top of the webpage and divide it into sections.
 <!---Favicon--> A small icon that appears on the left side of browser tab.
 <!---Table---> Displays a list of events that is going to happen in future and divided by dates,time,place and event.
+<!-- tr -->These tag is used to add the row elements in the table.
+<!-- th -->These tag is used to add header of table Date,Time,Place and Event name.
+<!-- td -->These tag is used to add the data for the header cells.
 <!--h2-->This tag is used to add the heading to table.
 <!---Form---> The form tag is used to collect the information like which event is likely to attend and performer they likes.
 <!--Images--> Using this tag added images that suites the description.
