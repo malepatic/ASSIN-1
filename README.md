@@ -1,4 +1,3 @@
-# WEBDESIGN.HTMLCSS
 # WEBDESIGN.HTMLCSS TAGS USED
 This is a simple website built with HTML and CSS , including the following elements :
 
