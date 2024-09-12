@@ -1,0 +1,9 @@
+body{
+    background-image: url(b.img);
+}
+h1{
+    font-style: italic;
+}
+summary{
+    font-size: larger;
+}

@@ -6,6 +6,20 @@ nav {
     align-items: center;
     padding: 0rem calc(100vw - 1300px) / 2;
 }
+* {
+    box-sizing: border-box;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+.row::after {
+    content: "";
+    display: table-column;
+    clear: both;
+}
+
 .logo {
     color: black;
     font-weight: bold;
@@ -29,12 +43,6 @@ menu{
     font-size: x-large;
     font-style: oblique;
 }
-img{
-    width: 29%;
-    height: 29%;
-    border-radius: 6%;
-    border: 4px solid paleorange;
-}
 div {
     align-self: start;
 }
@@ -46,7 +54,7 @@ table , th , td {
     table-layout: auto;
 }
 body{
-    background: orange;
+    background-image: url(img.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -71,4 +79,7 @@ button:hover {
     background: white;
     color: black;
 }
+video {
+    width: 100%;
 
+}
