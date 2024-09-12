@@ -51,5 +51,5 @@ This is a simple website built with HTML and CSS , including the following eleme
 <!--background-repeat-->These attribute is set to no-repeat for tiling backgorund position.
 <!--background-attachment-->These attribute is used to fix the position of background image irrespective of scrolling.
 <!-- background-size -->It is used to specify the size of background image added.
-
+<!-- text-decoration --> This attribute is set to none for removing the underline of text.
 
